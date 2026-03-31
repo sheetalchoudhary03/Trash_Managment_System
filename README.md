@@ -46,5 +46,3 @@ The system combines data management with visualization tools to improve decision
    - Performance charts  
 
 ---
-
-## 📂 Project Structure
