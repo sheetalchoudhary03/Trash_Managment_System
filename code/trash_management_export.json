@@ -1,0 +1,204 @@
+{
+    "company_info": {
+        "name": "Ujjain Trash Control Pvt Ltd",
+        "export_date": "2025-03-25 16:47:34"
+    },
+    "trash_data": {
+        "February": {
+            "Plastic": 263.0,
+            "Metal": 465.0,
+            "Books & Copies": 420.0,
+            "Cloths": 112.0,
+            "Dump Waste": 430.0
+        },
+        "March": {
+            "Books & Copies": 40.0
+        }
+    },
+    "deals": [
+        {
+            "company": "Anant Metal Industry",
+            "category": "Metal",
+            "quantity": 455.0,
+            "amount": 227500.0,
+            "date": "2025-02-20 15:46:04",
+            "deal_type": "industry"
+        },
+        {
+            "company": "Book Bank",
+            "category": "Books & Copies",
+            "quantity": 300.0,
+            "amount": 15000.0,
+            "date": "2025-02-20 15:46:22",
+            "deal_type": "industry"
+        },
+        {
+            "company": "Fabric World",
+            "category": "Cloths",
+            "quantity": 52.0,
+            "amount": 1768.0,
+            "date": "2025-02-20 15:46:35",
+            "deal_type": "industry"
+        },
+        {
+            "company": "Municipal Waste Facility",
+            "category": "Dump Waste",
+            "quantity": 400.0,
+            "amount": 160000.0,
+            "date": "2025-02-20 15:46:46",
+            "deal_type": "industry"
+        },
+        {
+            "company": "Plastic World",
+            "category": "Plastic",
+            "quantity": 12.0,
+            "amount": 360.0,
+            "date": "2025-02-20 21:24:21",
+            "deal_type": "industry"
+        },
+        {
+            "company": "EcoPlast Industries",
+            "category": "Plastic",
+            "quantity": 10.0,
+            "amount": 500.0,
+            "date": "2025-02-20 21:24:38",
+            "deal_type": "industry"
+        },
+        {
+            "company": "Self Storage",
+            "category": "Plastic",
+            "quantity": 3.0,
+            "amount": 0,
+            "date": "2025-02-20 21:24:45",
+            "deal_type": "self"
+        },
+        {
+            "company": "Self Storage",
+            "category": "Plastic",
+            "quantity": 5.0,
+            "amount": 0,
+            "date": "2025-02-20 21:24:56",
+            "deal_type": "self"
+        },
+        {
+            "company": "Paper Recyclers",
+            "category": "Books & Copies",
+            "quantity": 50.0,
+            "amount": 1000.0,
+            "date": "2025-02-20 21:25:11",
+            "deal_type": "industry"
+        },
+        {
+            "company": "Book Bank",
+            "category": "Books & Copies",
+            "quantity": 20.0,
+            "amount": 1000.0,
+            "date": "2025-02-20 21:25:19",
+            "deal_type": "industry"
+        },
+        {
+            "company": "Self Storage",
+            "category": "Books & Copies",
+            "quantity": 10.0,
+            "amount": 0,
+            "date": "2025-02-20 21:25:26",
+            "deal_type": "self"
+        },
+        {
+            "company": "Textile Recycling Co.",
+            "category": "Cloths",
+            "quantity": 50.0,
+            "amount": 20000.0,
+            "date": "2025-02-20 21:26:22",
+            "deal_type": "industry"
+        },
+        {
+            "company": "Fabric World",
+            "category": "Cloths",
+            "quantity": 8.0,
+            "amount": 480.0,
+            "date": "2025-02-20 21:26:27",
+            "deal_type": "industry"
+        },
+        {
+            "company": "Self Storage",
+            "category": "Cloths",
+            "quantity": 2.0,
+            "amount": 0,
+            "date": "2025-02-20 21:26:52",
+            "deal_type": "self"
+        },
+        {
+            "company": "Paper Recyclers",
+            "category": "Books & Copies",
+            "quantity": 30.0,
+            "amount": 9000.0,
+            "date": "2025-02-20 21:27:51",
+            "deal_type": "industry"
+        },
+        {
+            "company": "Self Storage",
+            "category": "Books & Copies",
+            "quantity": 10.0,
+            "amount": 0,
+            "date": "2025-02-20 21:27:58",
+            "deal_type": "self"
+        },
+        {
+            "company": "Anant Metal Industry",
+            "category": "Metal",
+            "quantity": 5.0,
+            "amount": 250.0,
+            "date": "2025-02-20 21:28:10",
+            "deal_type": "industry"
+        },
+        {
+            "company": "MetalScrap Co.",
+            "category": "Metal",
+            "quantity": 5.0,
+            "amount": 250.0,
+            "date": "2025-02-20 21:28:16",
+            "deal_type": "industry"
+        },
+        {
+            "company": "Municipal Waste Facility",
+            "category": "Dump Waste",
+            "quantity": 20.0,
+            "amount": 6000.0,
+            "date": "2025-02-20 21:28:31",
+            "deal_type": "industry"
+        },
+        {
+            "company": "Self Storage",
+            "category": "Dump Waste",
+            "quantity": 10.0,
+            "amount": 0,
+            "date": "2025-02-20 21:28:37",
+            "deal_type": "self"
+        },
+        {
+            "company": "Paper Recyclers",
+            "category": "Books & Copies",
+            "quantity": 30.0,
+            "amount": 3000.0,
+            "date": "2025-03-09 21:29:34",
+            "deal_type": "industry"
+        },
+        {
+            "company": "Book Bank",
+            "category": "Books & Copies",
+            "quantity": 5.0,
+            "amount": 400.0,
+            "date": "2025-03-09 21:29:57",
+            "deal_type": "industry"
+        },
+        {
+            "company": "Self Storage",
+            "category": "Books & Copies",
+            "quantity": 5.0,
+            "amount": 0,
+            "date": "2025-03-09 21:30:05",
+            "deal_type": "self"
+        }
+    ]
+}
